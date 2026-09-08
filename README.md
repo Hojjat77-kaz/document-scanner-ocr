@@ -139,7 +139,6 @@ The preprocessing pipeline was tested with both grayscale and resized images.
 For the tested receipt image, grayscale preprocessing produced better OCR results than resizing, so resizing was not included in the final pipeline.
 
 ## Future Improvements
-
 * Support for different document backgrounds
 * Adaptive thresholding for uneven lighting
 * Automatic document detection using deep learning
